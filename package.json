@@ -1,0 +1,27 @@
+{
+  "name": "random-animal",
+  "version": "1.0.0",
+  "description": "Fetches a random image of a Dog or a Cat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoryGregoryGregory/random-animal.git"
+  },
+  "dependencies": {
+    "request-promise-native": ">=1.0.3"
+  },
+  "keywords": [
+    "dog",
+    "cat",
+    "random"
+  ],
+  "author": "GregoryGregoryGregory",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GregoryGregoryGregory/random-animal/issues"
+  },
+  "homepage": "https://github.com/GregoryGregoryGregory/random-animal/#readme"
+}
