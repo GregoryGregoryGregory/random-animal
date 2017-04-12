@@ -1,6 +1,6 @@
 {
   "name": "random-animal",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fetches a random image of a Dog or a Cat.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/GregoryGregoryGregory/random-animal.git"
   },
   "dependencies": {
-    "request-promise-native": ">=1.0.3"
+    "request-promise-native": ">=1.0.3",
+    "request": ">=2.0.0"
   },
   "keywords": [
     "dog",
