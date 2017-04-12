@@ -1,5 +1,5 @@
 # random-animal
-
+ Fetches a random image of a Dog or a Cat.
 ## Install
 
 `npm install randon-animal`
