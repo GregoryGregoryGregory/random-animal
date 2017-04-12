@@ -1,6 +1,6 @@
 {
   "name": "random-animal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetches a random image of a Dog or a Cat.",
   "main": "index.js",
   "scripts": {
