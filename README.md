@@ -3,7 +3,7 @@
 
 ## Install
 
-`npm install randon-animal`
+`npm install random-animal`
 
 ## Usage
 
