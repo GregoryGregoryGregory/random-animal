@@ -10,7 +10,7 @@ exports.dog = function () {
 
 exports.cat = function () {
     return new Promise((resolve, reject) => {
-        request("https://random.cat/meow").then(JSON.parse).then(cat => resolve(cat.file))
+        request("https://aws.random.cat/meow").then(JSON.parse).then(cat => resolve(cat.file))
         .catch(err => reject(Error(err)));
     });
 };
